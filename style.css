@@ -89,7 +89,7 @@
             border-top-style: solid;
            border-top-color:hsl(34, 97%, 64%);
            width:300px;
-            margin-left: 59%;
+            margin-left: 60%;
             position:absolute;
            bottom:17%
             
@@ -100,6 +100,7 @@
            width:300px;
            position: relative;
            margin-left: 40%;
+           margin bottom:50px;
            
        }
        #line{
