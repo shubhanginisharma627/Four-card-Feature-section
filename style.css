@@ -74,7 +74,7 @@
            border-top-color:hsl(180, 62%, 55%);
            position:absolute;
            margin-top:12%;
-           margin-left: 14%;
+           margin-left: 13%;
        }
        .two{
             border-top-style: solid;
@@ -82,7 +82,7 @@
            position: relative;
            width:300px;
            margin-left:40%;
-           margin-top:7%;
+           margin-top:5%;
            
        }
        .three{
@@ -91,14 +91,13 @@
            width:300px;
             margin-left: 59%;
             position:absolute;
-           bottom:19%
+           bottom:20%
             
        }
        .four{
             border-top-style: solid;
            border-top-color:hsl(212, 86%, 64%);
            width:300px;
-           margin-bottom: 50%;
            position: relative;
            margin-left: 40%;
            
