@@ -66,7 +66,7 @@ body{
            padding:10px;
            height:220px;
            border-radius:2%;
-           box-shadow:10%
+          box-shadow: 5px 10px hsl(229, 6%, 66%);
        }
      .image{
            float:right;
