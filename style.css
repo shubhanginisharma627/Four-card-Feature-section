@@ -89,9 +89,9 @@
             border-top-style: solid;
            border-top-color:hsl(34, 97%, 64%);
            width:300px;
-            margin-left: 60%;
+            margin-left: 62%;
             position:absolute;
-           bottom:17%
+           bottom:15%
             
        }
        .four{
@@ -100,7 +100,7 @@
            width:300px;
            position: relative;
            margin-left: 40%;
-           margin bottom:50px;
+           margin bottom:10%;
            
        }
        #line{
