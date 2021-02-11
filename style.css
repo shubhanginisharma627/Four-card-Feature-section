@@ -66,6 +66,7 @@ body{
            padding:10px;
            height:220px;
            border-radius:2%;
+           box-shadow:10%
        }
      .image{
            float:right;
