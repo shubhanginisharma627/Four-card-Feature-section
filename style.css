@@ -1,0 +1,120 @@
+@media(min-width:375px){
+    #First{
+        padding:30px;
+        Font-size: 15px;
+        background-color:hsl(0, 0%, 98%);
+        font-family: 'Poppins', sans-serif;
+    }
+       .box{
+           margin-top:10px;
+           margin-bottom:10px;
+           background-color:white;
+           padding:10px;
+           height:200px;
+           border-radius:5%;
+       }
+     .image{
+           float:right;
+           padding-bottom:5px;
+       }
+      .one{
+            border-top-style: solid;
+           border-top-color:hsl(180, 62%, 55%);
+       }
+       .two{
+            border-top-style: solid;
+           border-top-color:hsl(0, 78%, 62%);
+       }
+       .three{
+            border-top-style: solid;
+           border-top-color:hsl(34, 97%, 64%);
+       }
+       .four{
+            border-top-style: solid;
+           border-top-color:hsl(212, 86%, 64%);
+       }
+       #line{
+        color:hsl(234, 12%, 34%);
+        font-weight:200;
+      }
+     .main{
+         font-weight:600;
+        }
+     .tain{
+         Font-weight:400;
+        }
+      p{
+        color:hsl(229, 6%, 66%)
+       }
+    }
+    
+    @media (min-width:1440px){
+        #First{
+        height: 100vh;
+        text-align:center;
+        Font-size: 15px;
+        background-color:hsl(0, 0%, 98%);
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+        }
+       .box{
+           margin-top:10px;
+           margin-bottom:10px;
+           background-color:white;
+           padding:10px;
+           height:250px;
+           border-radius:1%;
+       }
+     .image{
+           float:right;
+           padding-bottom:5px;
+       }
+      .one{
+            border-top-style: solid;
+           border-top-color:hsl(180, 62%, 55%);
+           position:absolute;
+           margin-top:12%;
+           margin-left: 14%;
+       }
+       .two{
+            border-top-style: solid;
+           border-top-color:hsl(0, 78%, 62%);
+           position: relative;
+           width:300px;
+           margin-left:40%;
+           margin-top:7%;
+           
+       }
+       .three{
+            border-top-style: solid;
+           border-top-color:hsl(34, 97%, 64%);
+           width:300px;
+            margin-left: 59%;
+            position:absolute;
+           bottom:19%
+            
+       }
+       .four{
+            border-top-style: solid;
+           border-top-color:hsl(212, 86%, 64%);
+           width:300px;
+           margin-bottom: 50%;
+           position: relative;
+           margin-left: 40%;
+           
+       }
+       #line{
+         color:hsl(234, 12%, 34%);
+         font-weight:200;
+        }
+        .main{
+         font-weight:600;
+        }
+       .tain{
+         Font-weight:400;
+        }
+       p{
+         color:hsl(229, 6%, 66%);
+         float:center;
+        }
+    }
