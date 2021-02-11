@@ -77,7 +77,7 @@ body{
            border-top-color:hsl(180, 62%, 55%);
            position:absolute;
            margin-top:11%;
-           margin-left: 12%;
+           margin-left: 11%;
        }
        .two{
             border-top-style: solid;
@@ -85,14 +85,14 @@ body{
            position: relative;
            width:300px;
            margin-left:40%;
-           margin-top:2%;
+           margin-top:1%;
            
        }
        .three{
             border-top-style: solid;
            border-top-color:hsl(34, 97%, 64%);
            width:300px;
-            margin-left: 61%;
+            margin-left: 62%;
             position:absolute;
            bottom:12%
             
