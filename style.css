@@ -18,12 +18,11 @@
            padding-bottom:5px;
        }
       
-       
+    }
       p{
         color:hsl(229, 6%, 66%)
        }
-    }
-  body{
+     body{
      background-color:hsl(0, 0%, 98%);
       }
        .one{
@@ -107,7 +106,7 @@
        }
        
        p{
-         color:hsl(229, 6%, 66%);
+         
          float:center;
         }
     }
