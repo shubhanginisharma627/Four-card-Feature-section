@@ -17,10 +17,19 @@
            float:right;
            padding-bottom:5px;
        }
-      .one{
+      
+       
+      p{
+        color:hsl(229, 6%, 66%)
+       }
+    }
+  body{
+     background-color:hsl(0, 0%, 98%);
+      }
+       .one{
             border-top-style: solid;
            border-top-color:hsl(180, 62%, 55%);
-       }
+          }
        .two{
             border-top-style: solid;
            border-top-color:hsl(0, 78%, 62%);
@@ -34,22 +43,15 @@
            border-top-color:hsl(212, 86%, 64%);
        }
        #line{
-        color:hsl(234, 12%, 34%);
-        font-weight:200;
-      }
-     .main{
+         color:hsl(234, 12%, 34%);
+         font-weight:200;
+        }
+        .main{
          font-weight:600;
         }
-     .tain{
+       .tain{
          Font-weight:400;
         }
-      p{
-        color:hsl(229, 6%, 66%)
-       }
-    }
-body{
-     background-color:hsl(0, 0%, 98%);
-}
     @media (min-width:1440px){
         #First{
         height: 100vh;
@@ -80,8 +82,7 @@ body{
            margin-left: 11%;
        }
        .two{
-            border-top-style: solid;
-           border-top-color:hsl(0, 78%, 62%);
+            
            position: relative;
            width:300px;
            margin-left:40%;
@@ -89,8 +90,7 @@ body{
            
        }
        .three{
-            border-top-style: solid;
-           border-top-color:hsl(34, 97%, 64%);
+           
            width:300px;
             margin-left: 62%;
             position:absolute;
@@ -98,24 +98,14 @@ body{
             
        }
        .four{
-            border-top-style: solid;
-           border-top-color:hsl(212, 86%, 64%);
+           
            width:300px;
            position: relative;
            margin-left: 40%;
            margin bottom:15%;
            
        }
-       #line{
-         color:hsl(234, 12%, 34%);
-         font-weight:200;
-        }
-        .main{
-         font-weight:600;
-        }
-       .tain{
-         Font-weight:400;
-        }
+       
        p{
          color:hsl(229, 6%, 66%);
          float:center;
